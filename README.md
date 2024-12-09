@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"
 
 *project* : *Olympic Analysis*
-The project involves analyzing historical Olympic data to uncover trends and patterns, such as medal distribution, athlete performance metrics, and country-wise achievements over the years. This analysis helps identify factors contributing to success and areas for improvement. <a href="http://localhost:8501/">Video demo</a>
+The project involves analyzing historical Olympic data to uncover trends and patterns, such as medal distribution, athlete performance metrics, and country-wise achievements over the years. This analysis helps identify factors contributing to success and areas for improvement <a href="http://localhost:8501/">Project Link</a>
 
 *Project* : *Pizza Sales Report Using PowerBi*
 The project focuses on creating visually appealing and interactive dashboards to analyze pizza sales. Key metrics like total sales, customer demographics, most popular pizza types, sales by time - daily, monthly, and location-based trends are highlighted for actionable insights.
